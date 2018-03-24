@@ -10,3 +10,6 @@ So I decided to give it a try, and here it is.
 
 # Does It Have Bugs?
 Yes, many, many bugs. I didn't knew about unit tests at the time, so...
+
+# Compiling
+To compile, use Visual Studio 2015. Community Edition will do.
