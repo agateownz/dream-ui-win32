@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="dreamui.h" />
+    <ClInclude Include="uielement.h" />
+    <ClInclude Include="window.h" />
+    <ClInclude Include="base.h" />
+    <ClInclude Include="vector2.h" />
+    <ClInclude Include="brush.h" />
+    <ClInclude Include="font.h" />
+    <ClInclude Include="menu.h" />
+    <ClInclude Include="enumhelper.h" />
+    <ClInclude Include="label.h" />
+    <ClInclude Include="button.h" />
+    <ClInclude Include="uievent.h" />
+    <ClInclude Include="groupbox.h" />
+    <ClInclude Include="commandlink.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="uielement.cpp" />
+    <ClCompile Include="window.cpp" />
+    <ClCompile Include="brush.cpp" />
+    <ClCompile Include="font.cpp" />
+    <ClCompile Include="label.cpp" />
+    <ClCompile Include="vector2.cpp" />
+    <ClCompile Include="button.cpp" />
+    <ClCompile Include="groupbox.cpp" />
+    <ClCompile Include="commandlink.cpp" />
+  </ItemGroup>
+</Project>
